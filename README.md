@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can access the PDF file here <a href="https://pascalemp.github.io/CBIR-siamese-cnn/pdf/cbir.pdf" target="_blank">PDF.</a>
+You can access the PDF file <a href="https://pascalemp.github.io/CBIR-siamese-cnn/pdf/cbir.pdf" target="_blank">here.</a>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
