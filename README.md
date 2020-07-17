@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Content Based Image Retrieval using Siamese Neural Networks and K One-Shot Learning
 
 You can access the PDF file <a href="https://pascalemp.github.io/CBIR-siamese-cnn/pdf/cbir.pdf" target="_blank">here.</a>
 
