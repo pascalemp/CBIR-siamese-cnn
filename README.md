@@ -1,2 +1,37 @@
-# CBIR-siamese-cnn
-Content Based Image Retrieval, otherwise known as ‘CBIR’ is a method used to extract visually similar images from a large database, based on the features of a given query image. This project explores and presents a modified approach to CBIR by using artificial neural networks, as opposed to classical computer vision techniques. The method presented here utilises a Siamese Neural Network paired with a variation of One Shot Learning, which is trained on pairs of dissimilar images in order to extract image feature vectors. Visual similarity is then deduced by utilising a distance function that compares the distance between the two feature vectors returned by the network and this will therefore provide a measure of similarity based on the image content learned by the network.
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/pascalemp/CBIR-siamese-cnn/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pascalemp/CBIR-siamese-cnn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
